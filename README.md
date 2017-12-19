@@ -12,9 +12,11 @@ The Radar window is where the user will guess where the enemy ships are. Click t
 # Limitations
 This is the first iteration of the project, so there are a few limitations.
 -There is currently no AI. The AI will simply guess a space to hit.
--The functionality for placing the user's ship does not take into consideration if another one of the user's ships is in the path it is considering.
+-The functionality for placing the user's ship does not take into consideration if another one of the user's ships is in the path it is considering. (addressed in 12192017battleship)
 # What's Next for this Project
 Besides addressing the limitations, my next goal is to eliminate use of the shell entirely.
 
-# December 12, 2017
+# December 2, 2017
 I began work on this project at the Local Hack Day 2017 event on the University of Iowa campus. That day, I worked on the project to its current state.  At the end of the day, I presented the program to the rest of the hackers. The entire conferenced voted on their favorite project, and I got Third Place.
+# December 19, 2017
+Spent 2 hours updating the placeYourShips() method
